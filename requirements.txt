@@ -1,0 +1,8 @@
+chromadb
+PyMuPDF==1.22.5
+nltk
+tqdm
+openai
+python-dotenv
+pandas
+unstructured
